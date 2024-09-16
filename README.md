@@ -20,7 +20,6 @@ This project implements a gesture-based volume control system using OpenCV, Medi
 - MediaPipe (`mediapipe`)
 - PyCaw (`pycaw`)
 - Numpy (`numpy`)
-- comtypes (`comtypes`)
 
 ### OpenCV
 OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. It provides a common infrastructure for computer vision applications, helping developers build efficient computer vision software. In this project, OpenCV is used for:
