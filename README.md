@@ -9,7 +9,7 @@ This project implements a gesture-based volume control system using OpenCV, Medi
 - Visual feedback of gestures on the screen with OpenCV.
 
 ## Demo
-![Demo Image](https://example.com/demo.png) <!-- Replace with an actual link to demo image/gif -->
+![Demo Video](https://github.com/NimeshWijesuriya/Gesture-Volume-Control-CV/blob/main/Demo/Demo.mp4)
 
 ## Installation
 
