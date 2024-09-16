@@ -15,7 +15,7 @@ This project implements a gesture-based volume control system using OpenCV, Medi
 ## Installation
 
 ### Prerequisites
-- Python 3.x
+- Python
 - OpenCV (`opencv-python`)
 - MediaPipe (`mediapipe`)
 - PyCaw (`pycaw`)
